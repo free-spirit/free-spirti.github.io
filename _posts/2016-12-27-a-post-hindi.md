@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a Post in Hindi"
+title:  "शुक्र है उसका के अब सीने से पत्थर उतरा"
 date:   2016-12-27 10:18:00
 categories: Thriller Comedy Horror
 ---
